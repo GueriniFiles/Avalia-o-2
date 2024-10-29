@@ -31,7 +31,7 @@ com as regras estabelecidas.
 │   ├── src
 │   │   ├── main
 │   │   │   ├── java
-│   │   │   │   ├──br.com.secars.applogin
+│   │   │   │   ├──br.com.secars.avaliao2
 │   │   │   │   │   ├── MainActivity.java
 │   │   │   ├── res
 │   │   │   │   ├── layout
